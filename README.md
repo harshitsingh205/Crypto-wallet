@@ -1,3 +1,22 @@
+# Crypto-wallet
+
+Developed by [Harshit Singh](https://github.com/harshitsingh205)
+
+A modern Cryptocurrency tracking and management interface built with **React**, **TypeScript**, and **Vite**. This project provides a sleek UI for monitoring crypto assets with high-performance HMR (Hot Module Replacement).
+
+## Getting Started
+
+Follow these steps to get the project running locally on your machine.
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/harshitsingh205/Crypto-wallet.git](https://github.com/harshitsingh205/Crypto-wallet.git)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
